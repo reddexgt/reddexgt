@@ -35,8 +35,8 @@ Full Stack Dev | Expert in Cybersecurity | 3D Designer | FiveM Scripter (QB & ES
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON_NOM_GITHUB&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TON_NOM_GITHUB&theme=radical" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=reddexgt&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reddexgt&theme=radical" alt="streak" />
 </p>
 
 ---
